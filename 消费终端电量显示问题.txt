@@ -1,0 +1,8 @@
+测试机1：原电量100%，放电过程中即剩余电量60%时，机器报告设备异常-设备已恢复。
+测试机2：原电量69%，充电约1h，电量充至100%。
+测试机3：13:19原电量100%，17:45电量1%。
+
+
+#!/usr/bin/env python  
+# -*- coding: utf-8 -*-  
+from PIL import Image, ImageDraw, ImageFont, ImageFilter
